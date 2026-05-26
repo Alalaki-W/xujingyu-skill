@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="assets/hero.gif" alt="xujingyu-skill Hero Animation" />
-  <br/>
-  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
 </p>
 
 > *「乏善可陈！」—— 对平庸的终极评价*
